@@ -1,0 +1,12 @@
+###########################################################
+Daftarkan IP Kalian Sendiri OK
+Jangan Jahil Hapus IP Orang
+Syarat kalian harus punya akun github
+Lakukan FORK + STAR
+Lalu Pull Request IP Kalian Sendiri Nanti Saya Approve Kalo Penempatannya Benar
+Contoh :
+8.8.8.8
+10.10.10.10
+##########################################################
+Tulis Dibawah ini
+103.20.111.176
