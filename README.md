@@ -19,7 +19,9 @@ Netz X Ray
 Ditunggu :)
 
 # Kontak Admin
+Telegram : https://t.me/adisubagja
 
 # Donasi
 
 # Telegram Grup
+https://t.me/+qmkQdAxx6_MxZjll
