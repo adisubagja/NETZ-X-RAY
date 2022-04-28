@@ -16,7 +16,7 @@ Netz X Ray
 
 # Installer
 
-Ditunggu :)
+Saat Ini Tersedia Installer Private Silahkan Chat Admin Di Telegram Apabila Ingin Diinstallkan
 
 # Kontak Admin
 Telegram : https://t.me/adisubagja
