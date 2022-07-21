@@ -1,3 +1,6 @@
+# Realease
+Page Moved To https://github.com/adisubagja/AutoScriptXray
+
 # Auto Script VPS
 Netz X Ray
 
